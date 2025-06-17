@@ -6,7 +6,6 @@ Python 3
 Pytorch 1.7.0
 sklearn
 numpy
-
 <h2>Datasets</h2>
 Due to the dataset size exceeding GitHub's maximum limit, please download the dataset from this link:https://pan.baidu.com/s/1GHHs1GrGIRDYpyZXIhcWFw?pwd=1234
 <h2>Usage</h2>
